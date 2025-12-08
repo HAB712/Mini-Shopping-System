@@ -1,4 +1,5 @@
-🛒 Shopping Mini Project (C# Console Application)
+🛒 Shopping Mini Project (C# Console Application).
+
 A simple and beginner-friendly Shopping System built using C# Console Application, demonstrating how a basic store, products, customers, and order billing system works.
 
 <img width="713" height="355" alt="habiba_assign" src="https://github.com/user-attachments/assets/6c77eb0f-f3ca-475c-9792-a99852ff5666" />
@@ -16,7 +17,8 @@ Get the final bill with discount
 See an order summary at the end
 The system includes electronic and grocery products, a customer, and order handling.
 
-🎯 Main Features
+🎯 Main Features.
+
 ✔ Store Module
 Displays a welcome message.
 Contains the store name.
